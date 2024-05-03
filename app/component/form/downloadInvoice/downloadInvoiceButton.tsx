@@ -56,8 +56,28 @@ Font.register({
   family: "Geist",
   fonts: [
     {
-      src: "/font/Merged-Medium.ttf",
+      src: "/font/IBMPlexSansThaiLooped-Thin.ttf",
+      fontWeight: "thin",
+    },
+    {
+      src: "/font/IBMPlexSansThaiLooped-Light.ttf",
+      fontWeight: "light",
+    },
+    {
+      src: "/font/IBMPlexSansThaiLooped-Regular.ttf",
       fontWeight: "normal",
+    },
+    {
+      src: "/font/IBMPlexSansThaiLooped-Medium.ttf",
+      fontWeight: "medium",
+    },
+    {
+      src: "/font/IBMPlexSansThaiLooped-SemiBold.ttf",
+      fontWeight: "semibold",
+    },
+    {
+      src: "/font/IBMPlexSansThaiLooped-Bold.ttf",
+      fontWeight: "bold",
     },
   ],
 });
