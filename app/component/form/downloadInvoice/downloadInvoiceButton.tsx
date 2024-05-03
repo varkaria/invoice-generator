@@ -56,36 +56,8 @@ Font.register({
   family: "Geist",
   fonts: [
     {
-      src: "/font/Geist-Thin.ttf",
-      fontWeight: "thin",
-    },
-    {
-      src: "/font/Geist-Ultralight.ttf",
-      fontWeight: "ultralight",
-    },
-    {
-      src: "/font/Geist-Light.ttf",
-      fontWeight: "light",
-    },
-    {
-      src: "/font/Geist-Regular.ttf",
+      src: "/font/Merged-Medium.ttf",
       fontWeight: "normal",
-    },
-    {
-      src: "/font/Geist-Medium.ttf",
-      fontWeight: "medium",
-    },
-    {
-      src: "/font/Geist-SemiBold.ttf",
-      fontWeight: "semibold",
-    },
-    {
-      src: "/font/Geist-Bold.ttf",
-      fontWeight: "bold",
-    },
-    {
-      src: "/font/Geist-UltraBlack.ttf",
-      fontWeight: "ultrabold",
     },
   ],
 });
