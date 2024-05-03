@@ -153,4 +153,15 @@ export const currencyList = [
             currencyColor: "#00BCD4",
         },
     },
+    {
+        value: "THB",
+        label: "THB",
+        details: {
+            country: "Thailand",
+            currencySymbol: "฿",
+            currencyName: "Thailand Bath",
+            currencyShortForm: "THB",
+            currencyColor: "#739DDE",
+        },
+    },
 ];
